@@ -1,3 +1,5 @@
 youtube link
 
 Linear Regression Model Link -  https://youtu.be/PAng4jgpOpA
+
+Logistic Regression Model - https://youtu.be/y-OTyCW-ad0
